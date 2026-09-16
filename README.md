@@ -1,33 +1,65 @@
 # Hi 👋, I'm Lavanya
 
-🎓 Beginner Software Developer passionate about learning and building  
-🌱 Currently focusing on Web Development, AI/ML, Data Science & Backend  
-💡 Interested in real-world problem solving and clean code  
+🎓 M.E. Student in Big Data Analytics (BDA)
+🧠 Exploring Data Science, Machine Learning & AI
+🐍 Building strong foundations in Python, Pandas, NumPy & Scikit-learn
+💡 Interested in solving real-world problems through data and intelligent systems
 
 ---
 
-## 🚀 What I'm Learning
-- 🌐 Web Development (HTML, CSS, JavaScript)
-- 🧠 AI / Machine Learning (Python basics)
-- 📊 Data Science (Data analysis & visualization)
-- ⚙️ Backend Development (APIs & databases)
+## 🚀 What I'm Currently Learning
+🐍 Python — Programming, problem solving & data handling
+📊 Data Science — NumPy, Pandas, Matplotlib & data visualization
+🧠 Machine Learning — Data preprocessing, feature engineering & classification
+📈 ML Algorithms — Logistic Regression, KNN, Decision Trees & model evaluation
+🧩 DSA & Problem Solving — Arrays, Linked Lists, searching & algorithmic thinking
+🗄️ Data & Backend Concepts — Working towards understanding databases, APIs and practical applications
 
 ---
 
-## 🛠️ Tech Stack (Beginner)
-- Languages: Python, JavaScript
-- Web: HTML, CSS, JavaScript
-- Tools: Git, GitHub
-- Learning: React, Node.js, Machine Learning
+## 🛠️ Tech Stack
+Programming
+Python
+JavaScript (learning)
+Data Science & Machine Learning
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+Web & Development
+HTML
+CSS
+JavaScript
+Git & GitHub
+Currently Exploring
+Machine Learning
+Data Analytics
+APIs & Databases
 
 ---
 
-## 📂 Projects
-> Projects will be added as I build and improve my skills.
+## 📂 Projects & Practice
 
-- 🔹 Web-based projects
-- 🔹 Python & Data Science mini-projects
-- 🔹 Backend practice applications
+I'm learning by building and applying concepts to practical problems.
+
+🔹 Data Analysis Projects
+🔹 Machine Learning Classification Projects
+🔹 Data Preprocessing & Feature Engineering
+🔹 Python Problem-Solving Practice
+🔹 DSA Implementations
+🔹 Real-world AI/ML Projects
+
+🚧 Projects are continuously being added as I learn, build and improve.
+
+🎯 My Goal
+
+To become a strong Data/AI-focused software engineer by building a solid foundation in programming, problem solving, data science and machine learning — and applying these skills to real-world problems.
+
+📚 Learning Philosophy
+
+Learn the concept → Understand why it works → Implement it → Build something with it.
+
+I believe real growth comes from understanding, building and consistently improving, not just memorizing code.
 
 ---
 
