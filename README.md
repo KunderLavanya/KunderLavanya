@@ -52,11 +52,12 @@ I'm learning by building and applying concepts to practical problems.
 🚧 Projects are continuously being added as I learn, build and improve.
 
 ---
-🎯 My Goal
+## 🎯 My Goal
 
 To become a strong Data/AI-focused software engineer by building a solid foundation in programming, problem solving, data science and machine learning — and applying these skills to real-world problems.
+
 ---
-📚 Learning Philosophy
+## 📚 Learning Philosophy
 
 Learn the concept → Understand why it works → Implement it → Build something with it.
 
